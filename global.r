@@ -1,3 +1,11 @@
+library(shiny)
+library(shinyWidgets)
+library(shinyjs)
+library(DT)
+library(shinyBS)
+library(readr)
+library(dplyr)
+
 # 一覧表の項目名
 dataItem_name <- c(
   "date",

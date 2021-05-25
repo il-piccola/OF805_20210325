@@ -1,8 +1,8 @@
-library(shiny)
-library(shinyWidgets)
-library(shinyjs)
-library(DT)
-library(shinyBS)
+#library(shiny)
+#library(shinyWidgets)
+#library(shinyjs)
+#library(DT)
+#library(shinyBS)
 shinyUI(fluidPage(
   shinyjs::useShinyjs(),
   
